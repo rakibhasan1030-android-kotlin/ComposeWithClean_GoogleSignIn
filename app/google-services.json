@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "751901327723",
+    "project_id": "signin-compose",
+    "storage_bucket": "signin-compose.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751901327723:android:26c51534deba4d7cad8c2e",
+        "android_client_info": {
+          "package_name": "rakib.hasan.composewithcleangooglesignin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "751901327723-84cpgi0muc3t7oh1n4q9sd1uh0qf9big.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWZEir4vZYc8A54TqW_UTIvvpt-hhAgAk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "751901327723-84cpgi0muc3t7oh1n4q9sd1uh0qf9big.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
